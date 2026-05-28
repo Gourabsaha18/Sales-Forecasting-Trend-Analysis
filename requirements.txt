@@ -10,3 +10,4 @@ openpyxl
 xlsxwriter
 ipykernel
 jupyter
+prophet
